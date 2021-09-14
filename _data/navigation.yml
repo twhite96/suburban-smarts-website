@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Home Assistant Config"
+    url: "https://docs.suburbansmarts.org"
+  - title: "Newsletter"
+    url: https://news.suburbansmarts.org
+  - title: "Blogroll"
+    url: /blogroll/
