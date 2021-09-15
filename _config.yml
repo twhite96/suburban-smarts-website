@@ -153,6 +153,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - minimal-mistakes/vendor
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
