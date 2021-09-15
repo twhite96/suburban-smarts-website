@@ -98,6 +98,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+jekyll_analytics:
+  Plausible:
+    domain: 'suburbansmarts.org'   # The domain configured in plausible
+    source: 'https://plausible.example.com/js/plausible.js' # The source of the javascript
+
+
 
 # Site Author
 author:
@@ -228,6 +234,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-analytics
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -236,6 +243,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-analytics
 
 
 # Archives
