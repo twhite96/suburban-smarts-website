@@ -48,7 +48,7 @@ comments:
     category_name        : "Comments"
     category_id          : "DIC_kwDOGDuKS84B_HhN"
     discussion_term      : "pathname"
-    reactions_enabled    : "0"
+    reactions_enabled    : 1
     theme                : "light"
   # staticman:
   #   branch               : # "master"
