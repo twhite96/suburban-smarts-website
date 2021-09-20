@@ -144,9 +144,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url:  "https://github.com/twhite96/SuburbanSmarts"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "BMC"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "http://buymeacoff.ee/tiffanywhitedev"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
