@@ -23,7 +23,7 @@ name                     : "Tiffany White"
 description              : "A collection of reviews, setups, and essays on smart home tech and its role in our lives and society."
 url                      : "https://suburbansmarts.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "twhite96/suburban-smarts-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://res.cloudinary.com/thatmacnerd/image/upload/v1631151195/ghost_preview_rev_1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
