@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-analytics"
   gem "jekyll-cloudinary"
+  gem "jemoji"
   gem "jekyll-include-cache"
 end
 

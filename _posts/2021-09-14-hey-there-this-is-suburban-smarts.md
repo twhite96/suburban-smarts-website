@@ -1,7 +1,7 @@
 ---
 title: "Hey there. This is Suburban Smarts."
 layout: single
-tags: [home asisstant, smart home, smart apartment]
+tags: [home assistant, smart home, smart apartment]
 header:
   image: https://res.cloudinary.com/thatmacnerd/image/upload/c_mfit,w_679/v1632100277/header.jpg
 description: New web presence for Suburban Smarts.
