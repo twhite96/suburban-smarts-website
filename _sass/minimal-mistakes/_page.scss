@@ -152,7 +152,7 @@ body {
   }
 
   .small {
-    font-size: $type-size-6;
+    font-size: $type-size-5;
   }
 
   /* blockquote citations */
@@ -565,4 +565,12 @@ body {
 
 .page__content > ul > li > a {
   color: $danger-color;
+}
+
+ul > li > a {
+  color: #ff000f;
+}
+
+.bigfoot-footnote__content > p {
+  font-size: $type-size-5 !important;
 }

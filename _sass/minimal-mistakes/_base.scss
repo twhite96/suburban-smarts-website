@@ -60,7 +60,7 @@ h6 {
 
 small,
 .small {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 p {
@@ -408,6 +408,11 @@ em::selection {
 }
 
 strong::selection {
+  background: hsla(356, 100%, 50%, 1.00);
+  color: #fff;
+}
+
+small::selection {
   background: hsla(356, 100%, 50%, 1.00);
   color: #fff;
 }

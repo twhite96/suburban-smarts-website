@@ -4,6 +4,7 @@ layout: single
 permalink: /smart-home/
 header:
   image: https://res.cloudinary.com/thatmacnerd/image/upload/v1577123638/20191220-ttt-nanoleaf-reddit-macsetups.jpg
+comments: true
 ---
 {: .notice--info }
 💡 Most of the people reviewing Smart Home gear have some gear list on their websites. Mine will be no different.
