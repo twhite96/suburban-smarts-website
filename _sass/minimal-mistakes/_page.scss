@@ -113,7 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 1.2em;
   }
 
   /* paragraph indents */
@@ -561,4 +561,8 @@ body {
       padding-right: 0;
     }
   }
+}
+
+.page__content > ul > li > a {
+  color: $danger-color;
 }

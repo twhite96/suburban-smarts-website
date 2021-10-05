@@ -1,0 +1,4 @@
+#algolia
+[build]
+  command = "jekyll build && jekyll algolia"
+  publish = "_site"

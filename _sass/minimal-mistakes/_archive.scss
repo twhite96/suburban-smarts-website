@@ -57,6 +57,7 @@
     top: 0;
     right: 0;
     bottom: 0;
+    color: $gray !important;
   }
 
   a + a {
@@ -460,4 +461,9 @@
 	.feature__wrapper {
 		display: inline-block;
 	}
+}
+
+
+h2.archive__item-title.no_toc > a {
+  color: $dark-gray !important;
 }
