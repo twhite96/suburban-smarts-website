@@ -25,7 +25,7 @@ url                      : "https://suburbansmarts.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "twhite96/suburban-smarts-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://res.cloudinary.com/thatmacnerd/image/upload/v1631151195/ghost_preview_rev_1.png"
+logo                     : "favicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
